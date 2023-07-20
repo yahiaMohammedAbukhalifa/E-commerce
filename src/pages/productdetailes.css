@@ -1,0 +1,82 @@
+body{
+    font-family: "Hind",sans-serif;
+}
+.ProductDetailes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  .images-container {
+    width: 30%;
+    margin-right: 40px;
+  }
+  
+  .images-container img {
+    width: 100%;
+    height: 400px;
+    display: block;
+    border-radius: 8px;
+  }
+  
+  .product-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .product-info h1 {
+    font-size: 2.2em;
+    margin-bottom: 10px;
+  }
+  
+  .product-info p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color:  black;
+  }
+  
+  .product-info span {
+    display: flex;
+    align-items: center;
+    font-size: 1.3em;
+    color: #f00;
+  }
+  
+  .product-info .before-offer {
+    margin-left: 20px;
+    font-size: 0.9em;
+    text-decoration: line-through;
+    color: red;
+  }
+  
+  .product-info .after-offer {
+    font-size: 1.5em;
+  }
+  .rating{
+    color: #3a6cf4;
+    justify-content: revert;
+  }
+  .ProductDetailes{
+    width: 100%;
+  }
+  .ProductDetailes button{
+    width: 100%;
+    font-size: 1.3rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: none;
+    height: 60px;
+    margin-bottom: 15px;
+  }
+  .ProductDetailes button svg{
+    margin-left: 10px;
+  }
+  .ProductDetailes button:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+  

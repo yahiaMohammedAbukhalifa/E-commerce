@@ -1,0 +1,38 @@
+[
+    {
+        "image": "img.webp",
+        "name": "T-shirt",
+        "rating": 4,
+        "price": 50,
+        "pastprice": 100,
+        "category": "men",
+        "productDescription": "This is a casual t-shirt for men"  
+    },
+    {
+        "image": "img.webp",
+        "name": "Shorts",
+        "rating": 3,
+        "price": 80,
+        "pastprice": 160,
+        "category": "men",
+        "productDescription": "These are casual shorts for men"  
+    },
+    {
+        "image": "women.jpg",
+        "name": "Dress",
+        "rating": 5,
+        "price": 120,
+        "pastprice": 200,
+        "category": "women",
+        "productDescription": "This is a formal dress for women"  
+    },
+    {
+        "image": "child.jpg",
+        "name": "Baby onesie",
+        "rating": 4,
+        "price": 60,
+        "pastprice": 120,
+        "category": "baby",
+        "productDescription": "This is a cute baby onesie"  
+    }
+]
